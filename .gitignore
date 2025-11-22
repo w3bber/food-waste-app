@@ -1,0 +1,20 @@
+# Root monorepo ignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+*.env
+.env*
+
+# Flutter build
+build/
+flutter_export_environment.sh
+
+# Logs
+*.log
